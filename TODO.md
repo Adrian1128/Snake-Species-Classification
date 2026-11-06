@@ -6,3 +6,4 @@ do:
 try:
 - higher resolution
 - bigger batch size
+- less trainable layers
